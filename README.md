@@ -30,7 +30,7 @@ Lista das consequências diretas do desmatamento, como:
 * Aumento das enchentes e erosão do solo.
 * Mudanças climáticas e perda da biodiversidade.
 * Impacto na saúde pública e economia local.
-
+* Desequilíbrio social e Perca de renda.
 #### Conclusão:
 
 Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
