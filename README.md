@@ -37,7 +37,7 @@ Reflexão final sobre a necessidade de ações para combater o desmatamento, inc
 
 #### Rodapé (Footer):
 
-Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte dessa causa!".
+incentivando a ação: "Faça parte dessa causa!".
 
 Como Rodar o Projeto:
 * Clone ou faça o download do repositório.
