@@ -2,7 +2,7 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
+    --primary-color: #133bee;
     --secondary-color: #27e9ff;
     --text-color: #17c60a;
     --background-color: #de5fef;
@@ -124,7 +124,7 @@ main {
 .conteudo h2 {
     font-size: 1.8em;
     margin-bottom: 15px;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #034414;
     padding-bottom: 5px;
 }
 
